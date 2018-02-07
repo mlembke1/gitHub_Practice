@@ -1,3 +1,4 @@
 "This is a classical piece of music so I will just make up some text."
 "Adding another line of non-lyrics! But this is good practice, for sure."
 "A third line! Woo Hoo!"
+"A fourth..."
